@@ -52,7 +52,7 @@ DB_NAME = environ.get("DB_NAME", "filestore")
 # Ask Doubt on telegram MoviesXonee
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "7309936388:AAF_TlTQGsb7s56Q4WLq1DnLZK8CQxIKmXI")
+BOT_TOKEN = environ.get("BOT_TOKEN", "")
 #BOT_USERNAME = environ.get("BOT_USERNAME", "") # your bot username without @
 PICS = (environ.get('PICS', 'https://graph.org/file/73830d9b27fc953337dcd.png')).split() # Bot Start Picture
 
